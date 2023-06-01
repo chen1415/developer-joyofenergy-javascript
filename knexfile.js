@@ -1,5 +1,6 @@
 // Update with your config settings.
-//  npx knex migrate
+// yarn knex migrate:make create_users_table
+// yarn knex migrate:latest
 
 /**
  * @type { Object.<string, import("knex").Knex.Config> }
